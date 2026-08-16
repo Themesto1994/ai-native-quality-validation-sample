@@ -1,12 +1,15 @@
 # LambdaTest Configuration
 
 # Project and folder configuration
-project_id: "01JCQR85K0QZFTSEP5S2EATFEQ"
-folder_id: "01JCQR85M5DT1KGAH0BN7S29Z9"
+project_id: "01M05STEJTV1737263QGB04V3D"
+folder_id: "01M05STSKFGAVE8E5CTCJZ1B3Y"
 
 # Test Run configuration
 assignee: 1194719
 environment_id: 220422
+configuration_name: "Chrome on Windows" 
+scenario_limit: 2
+test_cases_per_scenario: 3
 
 # Test URL for automation
 test_url: "https://demo.lambdatestinternal.com"

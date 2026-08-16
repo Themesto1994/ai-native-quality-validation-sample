@@ -7,7 +7,7 @@ folder_id: "01M05STSKFGAVE8E5CTCJZ1B3Y"
 # Test Run configuration
 assignee: 1194719
 environment_id: 220422
-configuration_name: "Chrome on Windows" 
+configuration_name: "Demo Config 1" 
 scenario_limit: 2
 test_cases_per_scenario: 3
 
